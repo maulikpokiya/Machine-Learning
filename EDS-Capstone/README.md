@@ -1,1 +1,2 @@
-Graduate Admission predictor - Elite Data Science Capstone Project
+# Graduate Admission predictor
+This is my EliteDataScience Capstone Project.
